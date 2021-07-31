@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathas Andrade</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eljonathas" alt="eljonathas" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jonathassx" target="blank"><img src="https://img.shields.io/twitter/follow/jonathassx?logo=twitter&style=for-the-badge" alt="jonathassx" /></a> </p>
+<p align="center"> <a href="https://twitter.com/jonathassx" target="blank"><img src="https://img.shields.io/twitter/follow/jonathassx?logo=twitter&style=for-the-badge" alt="jonathassx" /></a> </p>
 
 - 🔭 I’m currently working on [Tunefy](https://github.com/tunefy)
 
