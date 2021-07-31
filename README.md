@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/jonathassx" target="blank"><img src="https://img.shields.io/twitter/follow/jonathassx?logo=twitter&style=for-the-badge" alt="jonathassx" /></a> </p>
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eljonathas&show_icons=true&theme=dark&locale=en" alt="eljonathas" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eljonathas&show_icons=true&theme=dark&locale=en&layout=compact" alt="eljonathas" />
 </div>
