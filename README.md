@@ -29,8 +29,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/eljonathas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eljonathas" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eljonathas&show_icons=true&theme=dark&locale=en&layout=compact" alt="eljonathas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eljonathas&show_icons=true&theme=dark&locale=en" alt="eljonathas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eljonathas&theme=dark" alt="eljonathas" /></p>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eljonathas&show_icons=true&theme=dark&locale=en&layout=compact" alt="eljonathas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eljonathas&show_icons=true&theme=dark&locale=en" alt="eljonathas" />
+</div>
