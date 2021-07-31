@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathas Andrade</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eljonathas&label=Profile%20views&color=0e75b6&style=flat" alt="eljonathas" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eljonathas" alt="eljonathas" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jonathassx" target="blank"><img src="https://img.shields.io/twitter/follow/jonathassx?logo=twitter&style=for-the-badge" alt="jonathassx" /></a> </p>
@@ -16,6 +14,8 @@
 - 💬 Ask me about **React, Next.js, Machine Learning and UI Design**
 
 - 📫 How to reach me **jonathas.andrade5@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hDUli4rFIuPNGIcW6rBmbQoJPK4JCCev/view](https://drive.google.com/file/d/1hDUli4rFIuPNGIcW6rBmbQoJPK4JCCev/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,8 +31,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/eljonathas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eljonathas" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eljonathas&show_icons=true&locale=en&layout=compact" alt="eljonathas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eljonathas&show_icons=true&theme=dark&locale=en&layout=compact" alt="eljonathas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eljonathas&show_icons=true&locale=en" alt="eljonathas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eljonathas&show_icons=true&theme=dark&locale=en" alt="eljonathas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eljonathas&" alt="eljonathas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eljonathas&theme=dark" alt="eljonathas" /></p>
