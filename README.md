@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python, Java, C++, Data Science**
 
-- 👨‍💻 All of my projects are available at [https://jonathasandrade.info](https://jonathasandrade.info)
+- 👨‍💻 All of my projects are available at [https://jandrade.dev](https://jandrade.dev)
 
 - 💬 Ask me about **React, Next.js, Machine Learning and UI Design**
 
