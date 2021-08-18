@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/jonathassx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonathassx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eljonathas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eljonathas" height="30" width="40" /></a>
-<a href="https://fb.com/thmrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thmrs" height="30" width="40" /></a>
+<a href="https://fb.com/thmrss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thmrs" height="30" width="40" /></a>
 <a href="https://instagram.com/jonathassx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonathassx" height="30" width="40" /></a>
 </p>
 
