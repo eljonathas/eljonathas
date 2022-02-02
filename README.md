@@ -8,9 +8,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eljonathas&show_icons=true&theme=dark&locale=en&layout=compact" alt="eljonathas" />
 </div>
 
-- 🔭 I’m currently working on [Tunefy](https://github.com/tunefy)
+- 🔭 I’m currently working on [PedidoPago](https://github.com/pedidopago)
 
-- 🌱 I’m currently learning **Python, Java, C++, Data Science**
+- 🌱 I’m currently learning **Clean Architecture, Three.js, TDD, Team managment and Software agility**
 
 - 👨‍💻 All of my projects are available at [https://jandrade.dev](https://jandrade.dev)
 
