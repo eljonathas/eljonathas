@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eljonathas&show_icons=true&theme=dark&locale=en&layout=compact" alt="eljonathas" />
 </div>
 
-- 🔭 I’m currently working on [JAI](https://github.com/jquant) and [Pedido Pago](https://github.com/pedidopago)
+- 🔭 I’m currently working on [Pedido Pago](https://github.com/pedidopago) and [PlaceHunt](https://github.com/placehunt)
 
 - 🌱 I’m currently learning **Clean Architecture, Three.js, TDD, Team managment and Software agility**
 
