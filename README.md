@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Pedido Pago](https://github.com/pedidopago)
 
-- 🌱 I’m currently learning **Clean Architecture, Three.js, TDD, Team managment and Software agility**
+- 🌱 I’m currently learning **Clean Architecture and Design Patterns with Java, Three.js, Team management, and Software agility**
 
 - 👨‍💻 All of my projects are available at [https://jandrade.dev](https://jandrade.dev)
 
