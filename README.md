@@ -13,7 +13,6 @@
 - 🎓 Pursuing a degree in **Computer Science** at the **Federal University of Pará**
 - 🛠️ Transitioning to **backend development**, focusing on **parallel programming, artificial intelligence, and AI agents with Golang**
 - ✨ Passionate about **building new projects and solutions that help people**
-- 📚 Studying **computer vision** and how to integrate it natively into web projects using workers
 - ⚖️ Exploring **software development acceleration methodologies** and **team management strategies**
 - 💼 Aspiring **entrepreneur**, looking to launch innovative tech solutions
 
@@ -26,7 +25,8 @@
 - **Backend Development (Go, Python, Java)**
 - **Artificial Intelligence & Machine Learning**
 - **Parallel Programming & AI Agents**
-- **Computer Vision in Web Applications**
+- **Running LLM models natively in the browser using workers**
+- **Computer Vision for Vehicle Entry and Exit Control**
 - **Intelligent Web Scraping with Python and AI using LLMs like ChatGPT**
 
 ## Projects & Experience
