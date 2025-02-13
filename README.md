@@ -27,12 +27,13 @@
 - **Artificial Intelligence & Machine Learning**
 - **Parallel Programming & AI Agents**
 - **Computer Vision in Web Applications**
+- **Intelligent Web Scraping with Python and AI using LLMs like ChatGPT**
 
 ## Projects & Experience
 - 💡 Built and led multiple projects, including a **cashback app (Maniback)** developed in **React Native**, integrating **messaging services**
 - ⚙️ Leading the development of a **business analysis service powered by AI**, focusing on consistency in online business profiles
 - ✨ Experienced in **building scalable and accessible web applications**, optimizing **checkout flows for better conversions**
-- 🏢 Working on a **SaaS project leveraging AI for interior design customization**
+- 🏢 Working on a **SaaS project leveraging AI for digital engagement and participation analysis of businesses on Google Business, Instagram, and Facebook**
 - 🛠️ Created **React-Eventify**, a library for **event management in React**
 - 👾 Developed **HookForge**, a Go-based application for **intelligent webhook data transformation**
 
