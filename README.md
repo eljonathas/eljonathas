@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathas Andrade</h1>
-<h3 align="center">Frontend Engineer | AI Enthusiast | Future Backend Specialist</h3>
+<h3 align="center">Software Engineer | AI Enthusiast</h3>
 
 <p align="center"> <a href="https://twitter.com/jonathassx" target="blank"><img src="https://img.shields.io/twitter/follow/jonathassx?logo=twitter&style=for-the-badge" alt="jonathassx" /></a> </p>
 
