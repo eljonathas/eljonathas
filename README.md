@@ -11,7 +11,7 @@
 ## About Me
 - 💼 Currently working as **Lead Frontend Engineer** at [Pedido Pago](https://github.com/pedidopago)
 - 🎓 Pursuing a degree in **Computer Science** at the **Federal University of Pará**
-- 🛠️ Transitioning to **backend development**, focusing on **parallel programming, artificial intelligence, and AI agents with Golang**
+- 🛠️ Transitioning to **backend development**, focusing on **parallel programming, artificial intelligence, and AI agents**
 - ✨ Passionate about **building new projects and solutions that help people**
 - ⚖️ Exploring **software development acceleration methodologies** and **team management strategies**
 - 💼 Aspiring **entrepreneur**, looking to launch innovative tech solutions
